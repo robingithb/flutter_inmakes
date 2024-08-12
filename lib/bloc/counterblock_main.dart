@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:my_first_app/bloc/bloc_pattern/counter_app.dart';
+
+import 'Bloc/counter_app.dart';
 
 void main() {
   runApp(const MyCounter());
